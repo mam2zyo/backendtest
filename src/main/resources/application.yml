@@ -31,10 +31,3 @@ spring:
 jwt:
   secret: "gjaljgaigahljwljohajldhkajlahglgkalkgajoi3althmlkgalHGalkjhaljhalkjhakg"
   access-token-expiration-minutes: 15
-
-logging:
-  level:
-    # 실행되는 SQL 쿼리를 DEBUG 레벨 로그로 출력
-    org.hibernate.SQL: DEBUG
-    # SQL 쿼리에 바인딩되는 파라미터 값을 TRACE 레벨 로그로 출력
-    org.hibernate.type.descriptor.sql: TRACE

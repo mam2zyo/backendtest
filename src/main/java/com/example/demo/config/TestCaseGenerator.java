@@ -49,7 +49,7 @@ public class TestCaseGenerator implements ApplicationRunner {
     /* signup test
 
     {
-        "username": "peter",
+        "username": "holynight",
         "password": "abcd1234",
         "nickname": "happy323"
     }
@@ -62,11 +62,6 @@ public class TestCaseGenerator implements ApplicationRunner {
         "title": "Hello, Java",
         "content": "java, collection, generic, oop..."
     }
-
-    eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyIiwicm9sZSI6IlVTRVIiLCJpYXQiOjE3NTQ1MDU0ODksImV4cCI6MTc1NDUwNjM4OX0.lCjhsWCyAcz7vLBn7HMp3uL-LwIz3Jpz1hmTh005QQ1dRzKETw3YgQPVDIEv2hXltYtGwgi9XPqvu89omEBZcg
-
-
-
 
     */
 
